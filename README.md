@@ -1,3 +1,6 @@
 # Lisp-proyects
--IP calculator
--Tree trabersal in inorder, preorder and postorder
+## **IP calculator**  
+## **Tree traversal**   
+- ***Inorder***
+- ***Preorder***   
+- ***Postorder***   
